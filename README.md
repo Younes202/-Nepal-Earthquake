@@ -22,7 +22,7 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 
 ## Resources
 
-**([Data Sources](https://opendatanepal.com/))**
+**([Open Data Nepal](https://opendatanepal.com/))**
 
 
 ## Contact
