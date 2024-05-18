@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome👋! In this project, we will analyze and assess the damage caused by earthquakes in Kavrepalanchok, Nepal. Using data collected from [Open Data Nepal](https://opendatanepal.com/), this project employs data analysis and visualization techniques to understand the patterns and impacts of earthquake damage to improve future disaster preparedness and response.
+Welcome 👋!, In this project, we will analyze and assess the damage caused by earthquakes in Kavrepalanchok, Nepal. Using data collected from [Open Data Nepal](https://opendatanepal.com/), this project employs data analysis and visualization techniques to understand the patterns and impacts of earthquake damage to improve future disaster preparedness and response.
 
 ## Project Overview
 
