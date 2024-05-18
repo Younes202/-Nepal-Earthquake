@@ -1,4 +1,4 @@
-# Earthquake Damage in Kavrepalanchok
+# Earthquake Damage in Kavrepalanchok 🇳🇵
 
 ## Overview
 
@@ -6,23 +6,11 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 
 ## Project Overview
 
-1. **Get Data by Querying Various Sources** 📊🔍
-   - Government reports and databases
-   - Satellite imagery
-   - Seismological data
-   - Crowd-sourced information
+**Get data by querying a sqlite database** 📊🔍
+**build a logistic regression model for classification** 🔨📈
+**build a decision tree model for classification** 🌳📈
+**incorporate ethical considerations into our model building** 🤝🧠
 
-2. **Prepare Data for Analysis** 📈🕒
-   - Cleaning and formatting data
-   - Handling missing values
-   - Integrating data from multiple sources
-
-3. **Build and Train Models** 🔨📈
-   - Feature engineering
-   - Model selection (regression, classification)
-   - Training and validating models
-
-4. **Improve Models by Tuning Hyperparameters** 🛠️🎚️
 
 ## Key Insights
 
@@ -30,24 +18,13 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 - **Temporal Analysis**: Patterns of damage over time
 - **Predictive Modeling**: Predicting damage levels based on historical data
 
-## Visualizations
 
-- **Damage Distribution Map**: Map showing the distribution of damage
-- **Time Series Plot**: Temporal analysis of damage occurrences
-- **Feature Importance Plot**: Important factors contributing to damage
-- **Model Performance Metrics**: Evaluation of model performance
 
 ## Resources
 
-- **Data Sources**:
-  - [USGS Earthquake Data](https://earthquake.usgs.gov)
-  - [Local Government Reports](http://example.gov)
-  - [Satellite Imagery](http://example.com/satellite)
-  - [Crowd-sourced Data](http://example.com/crowdsourced)
+**([Data Sources](https://opendatanepal.com/))**
 
-- **Tools and Libraries**:
-  - Python
-  - Jupyter Notebook
-  - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-  - GeoPandas
-  - QGIS (optional)
+
+## Contact
+
+##### Feel free to reach out me on linkedin <a href="https://www.linkedin.com/in/younes-sghyer-08144119b/"> Younes Sghyer </a> if you have any questions or suggestions for improvement or collaboration. Thank you for visiting my repository!
