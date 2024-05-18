@@ -26,7 +26,7 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 ## Resources
 
 - **[Click here to access to the Open Data Nepal](https://opendatanepal.com/)**
-- **[Click here to access to the code source of my Project]()**
+- **[Click here to access to the code source of my Project](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok)**
 
 
 ## Contact
