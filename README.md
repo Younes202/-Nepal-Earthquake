@@ -7,8 +7,11 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 ## Project Overview
 
 **Get data by querying a sqlite database** 📊🔍
+
 **build a logistic regression model for classification** 🔨📈
+
 **build a decision tree model for classification** 🌳📈
+
 **incorporate ethical considerations into our model building** 🤝🧠
 
 
