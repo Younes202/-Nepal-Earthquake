@@ -1,4 +1,4 @@
-# Predict Earthquake Damage in Kavrepalanchok 🇳🇵
+# Prediction of earthquake damage in Kavripalanchuk 🇳🇵
 
 ## Overview
 
