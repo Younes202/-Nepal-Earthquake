@@ -12,7 +12,7 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 
 - **build a decision tree model for classification** 🌳📈
 
-- **incorporate ethical considerations into our model building** 🤝🧠
+- **ethical considerations into our model building** 🤝🧠
 
 
 ## Key Insights
