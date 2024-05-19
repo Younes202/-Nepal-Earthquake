@@ -61,7 +61,6 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
   <img src="images/10-importance-of-features.png" alt="Importance of Features" width="400" height="300">
 
 
-
 ## Resources
 
 - **[Click here to access to the Open Data Nepal](https://opendatanepal.com/)**
