@@ -39,7 +39,7 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
   <img src="images/05-logisticRegressionModel-and-OneHotEncoder.png" alt="Logistic Regression model with encoder for categorical features" width="400" height="300">
 
 
-- **Training and Validation to retrieve the max depth which is 10**
+- **Training and Validation to retrieve the max depth of the regression model which is 10**
   
   <img src="images/06-training-validation-depth-regression-plot.png" alt="Training and Validation to retrieve the max depth which is 10" width="400" height="300">
 
