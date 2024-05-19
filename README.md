@@ -47,16 +47,16 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
   
   <img src="images/07-Decision-Tree-model.png" alt="Decision Tree model based on the last max depth of the logisticregression model" width="400" height="300">
 
-  - **Decision-Tree model content**
+- **Decision-Tree model content**
   
   <img src="images/08-dession-content.png" alt="Decision-Tree model content" width="400" height="300">
 
 
-  - **Decision Tree plot**
+- **Decision Tree plot**
   
   <img src="images/09-Decision-Tree-plot.png" alt="Decision-Tree model plot" width="400" height="300">
 
-  - **Importance of features**
+- **Importance of features**
   
   <img src="images/10-importance-of-features.png" alt="Importance of Features" width="400" height="300">
 
