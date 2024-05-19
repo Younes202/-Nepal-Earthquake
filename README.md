@@ -17,16 +17,20 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 
 ## Key Insights
 
-- **SQL Query district 3 building**
+- **SQL Query about buildings in district 3**
+  
   <img src="images/01-query-district-id-3.png" alt="Query district building 3" width="600" height="300">
 
-- **Sub data of district 3**
+- **Sub data of buildings in district 3**
+  
   <img src="images/02-sub-data.png" alt="sub data" width="1500" height="500">
 
 - **Distribution classes of severe damage column**
+  
   <img src="images/03-distribution-classes-severe-damage column-plot.png" alt="Distribution classes of severe damage column" width="400" height="300">
 
-- **Relationship footprint feature and severe damage**
+- **Relationship of footprint feature and severe damage**
+  
   <img src="images/04-relationship-footprint-size-damage-plot.png" alt="Relationship footprint feature and severe damage" width="400" height="300">
 
 
@@ -36,19 +40,24 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 
 
 - **Training and Validation to retrieve the max depth which is 10**
+  
   <img src="images/06-training-validation-depth-regression-plot.png" alt="Training and Validation to retrieve the max depth which is 10" width="400" height="300">
 
 - **Decision Tree model based on the last max depth of the logisticregression model**
+  
   <img src="images/07-Decision-Tree-model.png" alt="Decision Tree model based on the last max depth of the logisticregression model" width="400" height="300">
 
   - **Decision-Tree model content**
+  
   <img src="images/08-dession-content.png" alt="Decision-Tree model content" width="400" height="300">
 
 
   - **Decision Tree plot**
+  
   <img src="images/09-Decision-Tree-plot.png" alt="Decision-Tree model plot" width="400" height="300">
 
   - **Importance of features**
+  
   <img src="images/10-importance-of-features.png" alt="Importance of Features" width="400" height="300">
 
 
