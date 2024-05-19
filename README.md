@@ -21,7 +21,7 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
   <img src="images/01-query-district-id-3.png" alt="Query district building 3" width="600" height="300">
 
 - **[Sub data of district 3](images/02-sub-data.png)**
-  <img src="images/02-sub-data.png" alt="sub data" width="900" height="500">
+  <img src="images/02-sub-data.png" alt="sub data" width="1500" height="500">
 
 - **Distribution classes of severe damage column**
   <img src="images/03-distribution-classes-severe-damage column-plot.png" alt="Distribution classes of severe damage column" width="400" height="300">
@@ -31,6 +31,7 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 
 
 - **Logistic Regression model with encoder for categorical features**
+  
   <img src="images/05-logisticRegressionModel-and-OneHotEncoder .png" alt="Logistic Regression model with encoder for categorical features" width="400" height="300">
 
 
