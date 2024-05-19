@@ -19,11 +19,11 @@ Welcome 👋!, In this project, we will analyze and assess the damage caused by 
 
 - **SQL Query about buildings in district 3**
   
-  <img src="images/01-query-district-id-3.png" alt="Query district building 3" width="600" height="300">
+  <img src="images/01-query-district-id-3.png" alt="Query district building 3" width="400" height="300">
 
 - **Sub data of buildings in district 3**
   
-  <img src="images/02-sub-data.png" alt="sub data" width="1500" height="500">
+  <img src="images/02-sub-data.png" alt="sub data" width="400" height="300">
 
 - **Distribution classes of severe damage column**
   
